@@ -1,0 +1,1 @@
+# profit_taking_strategy
